@@ -1,0 +1,2 @@
+# green-ai
+training class
